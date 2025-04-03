@@ -1,4 +1,4 @@
-# SVM-waste-classification
+# SVM-Waste-Classification
 Báo cáo tiểu môn học luận Thị Giác Máy Tính và Ứng Dụng.
 Đề tài: Ứng dụng máy vector hỗ trợ(SVM) trong phân loại rác thải: nhựa và kim loại
  
